@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\animales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\animales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\models\\adoptante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:models\\adoptante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\animales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\animales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\adoptantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\adoptantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\controllers\\animalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:controllers\\animalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\adoptantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\adoptantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\adoptantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\adoptantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\adoptantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\adoptantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\adoptantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\adoptantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\animales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\animales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\animales\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\animales\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\animales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\animales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\data\\migrations\\20250321003853_inicio creacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:data\\migrations\\20250321003853_inicio creacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|c:\\users\\eduardo\\desktop\\uniandes\\aplicaciones web\\semanat5\\centrorescateanimales\\controllers\\adoptantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AAB9B0-E2BA-4FB6-9C3A-6391B8ECA5A6}|CentroRescateAnimales.csproj|solutionrelative:controllers\\adoptantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T00:54:01.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Animales\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Create.cshtml",
+              "RelativeToolTip": "Views\\Animales\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T00:34:53.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:15:33.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T00:27:28.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:29:54.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:07:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Animales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Index.cshtml",
+              "RelativeToolTip": "Views\\Animales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T00:33:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adoptante.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Models\\Adoptante.cs",
+              "RelativeDocumentMoniker": "Models\\Adoptante.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Models\\Adoptante.cs",
+              "RelativeToolTip": "Models\\Adoptante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:15:07.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Controllers\\AnimalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnimalesController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Controllers\\AnimalesController.cs",
+              "RelativeToolTip": "Controllers\\AnimalesController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:25:33.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Adoptantes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Adoptantes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T01:07:07.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Adoptantes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Adoptantes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T01:11:53.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Adoptantes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Adoptantes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T01:11:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Adoptantes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Adoptantes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T01:11:57.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Adoptantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Adoptantes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Adoptantes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T01:11:58.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Animales\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Animales\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T01:02:22.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:55:02.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Animales\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Animales\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T01:02:18.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T00:43:33.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250321003853_Inicio Creacion.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Data\\Migrations\\20250321003853_Inicio Creacion.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250321003853_Inicio Creacion.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Data\\Migrations\\20250321003853_Inicio Creacion.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250321003853_Inicio Creacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:38:53.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Animales\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Views\\Animales\\Details.cshtml",
+              "RelativeToolTip": "Views\\Animales\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T01:02:20.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdoptantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Controllers\\AdoptantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdoptantesController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\UNIANDES\\APLICACIONES WEB\\SemanaT5\\CentroRescateAnimales\\Controllers\\AdoptantesController.cs",
+              "RelativeToolTip": "Controllers\\AdoptantesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:26:22.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

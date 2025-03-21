@@ -1,0 +1,57 @@
+﻿@model IEnumerable<CentroRescateAnimales.Models.Animal>
+
+@{
+    ViewData["Title"] = "Animales";
+}
+
+<h1>Animales en el Centro</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Agregar Nuevo Animal</a>
+</p>
+
+<table id="animalesTable" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Especie</th>
+            <th>Edad</th>
+            <th>Estado</th>
+            <th>Adoptante</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Especie)</td>
+                <td>@Html.DisplayFor(modelItem => item.Edad)</td>
+                <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                <td>@Html.DisplayFor(modelItem => item.Adoptante.Nombre)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#animalesTable').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/es-ES.json"
+                },
+                "pageLength": 10,
+                "order": [[0, "asc"]]
+            });
+        });
+    </script>
+}
