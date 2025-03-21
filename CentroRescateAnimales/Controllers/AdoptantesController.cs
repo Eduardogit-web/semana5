@@ -9,6 +9,7 @@ using CentroRescateAnimales.Data;
 using CentroRescateAnimales.Models;
 
 namespace CentroRescateAnimales.Controllers
+
 {
     public class AdoptantesController : Controller
     {
@@ -34,6 +35,7 @@ namespace CentroRescateAnimales.Controllers
             }
 
             var adoptante = await _context.Adoptantes
+                .Include(a => a.Animales)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (adoptante == null)
             {
@@ -50,8 +52,6 @@ namespace CentroRescateAnimales.Controllers
         }
 
         // POST: Adoptantes/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nombre,Email,Telefono")] Adoptante adoptante)
@@ -82,8 +82,6 @@ namespace CentroRescateAnimales.Controllers
         }
 
         // POST: Adoptantes/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nombre,Email,Telefono")] Adoptante adoptante)
@@ -143,9 +141,8 @@ namespace CentroRescateAnimales.Controllers
             if (adoptante != null)
             {
                 _context.Adoptantes.Remove(adoptante);
+                await _context.SaveChangesAsync();
             }
-
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 

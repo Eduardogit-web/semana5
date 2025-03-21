@@ -22,8 +22,10 @@ namespace CentroRescateAnimales.Controllers
         // GET: Animales
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Animales.Include(a => a.Adoptante);
-            return View(await applicationDbContext.ToListAsync());
+            var animales = await _context.Animales
+                .Include(a => a.Adoptante)
+                .ToListAsync();
+            return View(animales);
         }
 
         // GET: Animales/Details/5
@@ -48,13 +50,11 @@ namespace CentroRescateAnimales.Controllers
         // GET: Animales/Create
         public IActionResult Create()
         {
-            ViewData["AdoptanteId"] = new SelectList(_context.Adoptantes, "Id", "Id");
+            ViewBag.Adoptantes = _context.Adoptantes.ToList();
             return View();
         }
 
         // POST: Animales/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nombre,Especie,Edad,Estado,AdoptanteId")] Animal animal)
@@ -65,7 +65,7 @@ namespace CentroRescateAnimales.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["AdoptanteId"] = new SelectList(_context.Adoptantes, "Id", "Id", animal.AdoptanteId);
+            ViewBag.Adoptantes = _context.Adoptantes.ToList();
             return View(animal);
         }
 
@@ -82,13 +82,11 @@ namespace CentroRescateAnimales.Controllers
             {
                 return NotFound();
             }
-            ViewData["AdoptanteId"] = new SelectList(_context.Adoptantes, "Id", "Id", animal.AdoptanteId);
+            ViewBag.Adoptantes = _context.Adoptantes.ToList();
             return View(animal);
         }
 
         // POST: Animales/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nombre,Especie,Edad,Estado,AdoptanteId")] Animal animal)
@@ -118,7 +116,7 @@ namespace CentroRescateAnimales.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["AdoptanteId"] = new SelectList(_context.Adoptantes, "Id", "Id", animal.AdoptanteId);
+            ViewBag.Adoptantes = _context.Adoptantes.ToList();
             return View(animal);
         }
 
@@ -150,9 +148,8 @@ namespace CentroRescateAnimales.Controllers
             if (animal != null)
             {
                 _context.Animales.Remove(animal);
+                await _context.SaveChangesAsync();
             }
-
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 

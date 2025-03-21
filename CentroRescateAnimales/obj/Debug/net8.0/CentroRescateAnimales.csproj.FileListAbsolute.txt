@@ -295,3 +295,4 @@ C:\Users\Eduardo\Desktop\UNIANDES\APLICACIONES WEB\SemanaT5\CentroRescateAnimale
 C:\Users\Eduardo\Desktop\UNIANDES\APLICACIONES WEB\SemanaT5\CentroRescateAnimales\obj\Debug\net8.0\CentroRescateAnimales.genruntimeconfig.cache
 C:\Users\Eduardo\Desktop\UNIANDES\APLICACIONES WEB\SemanaT5\CentroRescateAnimales\obj\Debug\net8.0\ref\CentroRescateAnimales.dll
 C:\Users\Eduardo\Desktop\UNIANDES\APLICACIONES WEB\SemanaT5\CentroRescateAnimales\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Eduardo\Desktop\UNIANDES\APLICACIONES WEB\SemanaT5\CentroRescateAnimales\obj\Debug\net8.0\CentroRescateAnimales.sourcelink.json

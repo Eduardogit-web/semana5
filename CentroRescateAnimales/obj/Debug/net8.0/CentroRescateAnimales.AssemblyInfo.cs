@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CentroRescateAnimales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c613c8961c112f853095514438a5afa9cc0e5cb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CentroRescateAnimales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CentroRescateAnimales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
